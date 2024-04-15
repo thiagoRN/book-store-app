@@ -46,4 +46,7 @@ No backend, o ExpressJS lida com as requisições HTTP, conectando-se ao banco d
    <li>HTML</li>
    <li>CSS</li>
    <li>React</li>
+   <li>ExpressJS</li>
+   <li>MongoDB</li>
+   <li>Postman</li>
 </ul>
