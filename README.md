@@ -1,5 +1,5 @@
 
-<h1 align="center" ><a href="https://thiagoramos-port.web.app" target="_blank">React Portfolio</a></h1>
+<h1 align="center" ><a href="#" target="_blank">Book Store</a></h1>
 
 
 </br>
@@ -9,7 +9,9 @@
 </br></br>
 
 <h2 align="center">Projeto</h2>
-<p>React Portfolio é um projeto que eu criei usando react com intuito de praticar substituindo o porfolio antigo.</p>
+<p>Esta é uma aplicação web desenvolvida com React no frontend e ExpressJS, MongoDB e Postman no backend. No frontend, os usuários podem navegar pelos livros disponíveis, pesquisar por título, autor ou gênero e visualizar detalhes sobre cada livro.
+
+No backend, o ExpressJS lida com as requisições HTTP, conectando-se ao banco de dados MongoDB para armazenar e recuperar informações sobre os livros, como título, autor, gênero e etc. Postman é usado para testar e documentar as APIs RESTful do backend, garantindo que elas estejam funcionando corretamente e sejam acessíveis para o frontend.</p>
 </br>
 
 </br></br></br>
