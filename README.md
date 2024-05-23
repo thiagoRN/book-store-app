@@ -1,5 +1,5 @@
 
-<h1 align="center" ><a href="/https://mern-book-inventory-b3eeb.web.app/" target="_blank">Book Store</a></h1>
+<h1 align="center" ><a href="https://mern-book-inventory-b3eeb.web.app/" target="_blank">Book Store</a></h1>
 
 
 </br>
